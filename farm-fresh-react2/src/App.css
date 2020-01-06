@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.pagination-menu {
+  background-color: yellow;
+}
+
+.pagLink {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-decoration: none;
+}
